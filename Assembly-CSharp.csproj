@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MarathonSystem.cs" />
     <Compile Include="Assets\Scripts\PointToPointSystem.cs" />
     <Compile Include="Assets\Scripts\VectorExample.cs" />
     <Reference Include="UnityEngine">
