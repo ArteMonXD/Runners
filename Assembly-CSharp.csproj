@@ -63,9 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MarathonRunner.cs" />
     <Compile Include="Assets\Scripts\MarathonSystem.cs" />
     <Compile Include="Assets\Scripts\PointToPointSystem.cs" />
-    <Compile Include="Assets\Scripts\VectorExample.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/2019.4.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
